@@ -11,7 +11,7 @@ You can evaluate models, prompts, and agents by comparing their outputs to groun
 
 ## Evaluate prompts and agents
 
-You can evaluate prompts and agents in **Agent Builder** by selecting the **Evaluation** tab. Before you evaluate, run your prompts or agents against a dataset. Read more about [Bulk run](/docs/intelligentapps/bulkrun.md) to learn how to work with a dataset.
+You can evaluate prompts and agents in **Agent Builder** by selecting the **Evaluation** tab. Before you evaluate, run your prompts or agents against a dataset.
 
 To evaluate prompts or agents:
 

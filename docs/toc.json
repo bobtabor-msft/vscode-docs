@@ -430,7 +430,6 @@
       ["Agent Builder", "/docs/intelligentapps/agentbuilder"],
       ["Agent Inspector", "/docs/intelligentapps/agent-inspector"],
       ["Migrating from Visualizer to Agent Inspector", "/docs/intelligentapps/migrate-from-visualizer"],
-      ["Bulk Run", "/docs/intelligentapps/bulkrun"],
       ["Evaluation", "/docs/intelligentapps/evaluation"],
       ["Fine-Tuning (Automated Setup)", "/docs/intelligentapps/finetune"],
       ["Fine-Tuning (Project Template)", "/docs/intelligentapps/finetune-legacy"],
